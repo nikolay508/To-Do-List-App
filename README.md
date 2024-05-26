@@ -1,1 +1,1 @@
-This project represents a to-do list so you can track and complete all your tasks. Just write a goal you have in mind and it will save it for you, click on the goal and it will be marked as done, or remove the goal. The choice is yours :)
+This project represents a to-do list so you can track and complete all your tasks. Just write a goal you have in mind and it will save it for you, click on the goal and it will mark it as done, or remove the goal. The choice is all yours :)
