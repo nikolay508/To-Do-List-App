@@ -19,3 +19,4 @@ Delete tasks when you’re done or if plans change.<br>
 Keep track of your goals and make progress with this intuitive and minimalist To-Do List app! <hr>
 
 ### Here you can briefly see how it works: <br>
+<img width="1462" alt="Screenshot 2024-12-29 at 0 30 49" src="https://github.com/user-attachments/assets/4fb827b3-69d9-4024-878a-ffe18a059ed4" />
